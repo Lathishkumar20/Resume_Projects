@@ -64,6 +64,28 @@ Location: Bengaluru, Karnataka
 
  ![image](https://github.com/Lathishkumar20/Resume_Projects/assets/142078468/cdc9c199-f6e2-4dee-9bd1-8e82d6deb908)
 
+ In Bangalore ,it has more than 12,000 Restaurants ,Serving different dishes from all over the City. New Restaurants opening each and every day.
+ 
+ Analyze popular cuisines, trending dishes, and customer reviews to understand market preferences.
+ 
+ Identify areas with high demand or gaps in the market to optimize the location of your business.
+ 
+ Use data on popular dishes and cuisines to optimize your menu based on customer preferences.
+ 
+ Respond to customer reviews to build a positive online reputation and engage with your customer base.
+ 
+ There is a separate team for advertisement, which sells the website to the restaurant owners and attracts then to advertise with Zomato.
+
+ # CONCLUSION
+
+ The random forest model provides the best accuracy results, with a high testing accuracy of 94.69%. 
+ 
+ This suggests that the random forest model is more likely to perform well on new, unseen data and is the most suitable choice among the three models for this specific problem.
+
+
+
+
+
 
 
 
