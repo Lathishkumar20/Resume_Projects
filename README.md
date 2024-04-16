@@ -63,7 +63,6 @@ Location: Bengaluru, Karnataka
  # HELPFUL FOR BUSINESS
 
  ![image](https://github.com/Lathishkumar20/Resume_Projects/assets/142078468/cdc9c199-f6e2-4dee-9bd1-8e82d6deb908)
-
  In Bangalore ,it has more than 12,000 Restaurants ,Serving different dishes from all over the City. New Restaurants opening each and every day.
  
  Analyze popular cuisines, trending dishes, and customer reviews to understand market preferences.
