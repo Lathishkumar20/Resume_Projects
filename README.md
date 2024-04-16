@@ -7,7 +7,8 @@
  Providing restaurant listings, reviews and dine-out services to customers in all places in  Bangalore.
  With detailed restaurant listings, customer reviews, and dine-out services, Zomato Orders ensures a convenient and satisfying dining experience for food 
  enthusiasts throughout the city.
- ![image](https://github.com/Lathishkumar20/Resume_Projects/assets/142078468/12d09d36-917b-41ac-a8f7-cf626d8ae880)
+ ![image](https://github.com/Lathishkumar20/Resume_Projects/assets/142078468/11f2b924-1335-453e-b4cc-8d872188cedd)
+
 
 
 
