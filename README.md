@@ -8,7 +8,8 @@ The "Revolution of Dining with Restaurant Data" project aims to revolutionize th
 
 KEY HIGHLIGHTS:
 
-Time Frame: October 2023 to  January 2024
+Time Frame: Decemeber 2023 to  January 2024
+
 Location: Bengaluru, Karnataka
 
 # ABOUT ZOMATO ORDERS
@@ -41,8 +42,11 @@ Location: Bengaluru, Karnataka
 
  # TOOLS
  Python 
+ 
  Pandas, NumPy
+ 
  Scikit-learn
+ 
  Matplotlib, Seaborn
 
  # KEY FINDINGS
@@ -55,6 +59,12 @@ Location: Bengaluru, Karnataka
  Highest concentration of restaurants in "BTM“ and lowest in "DOMLUR”.
   
  Popularity of Pubs and Bars, Buffet, and Drinks & Nightlife Higher ratings.
+
+ # HELPFUL FOR BUSINESS
+
+ ![image](https://github.com/Lathishkumar20/Resume_Projects/assets/142078468/cdc9c199-f6e2-4dee-9bd1-8e82d6deb908)
+
+
 
 
  
