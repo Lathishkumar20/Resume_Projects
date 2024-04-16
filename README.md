@@ -2,7 +2,7 @@
 
 # OVERVIEW
 
-The "Revolution of Dining with Restaurant Data" project aims to revolutionize the dining experience by leveraging restaurant data for analysis and insights. This project explores various aspects of the restaurant industry, including customer preferences, popular cuisines, peak dining hours, and more. By analyzing this data, we can uncover valuable insights to improve restaurant operations, enhance customer satisfaction, and drive business growth.
+The "Revolution of Dining with Restaurant Data" project aims to revolutionize the dining experience by leveraging restaurant data for analysis and insights. This project explores various aspects of the restaurant industry, including customer preferences, popular cuisines, peak dining hours, and more. By analyzing this data, we can uncover valuable insights to improve restaurant operations, enhance customer satisfaction, and drive business growth. 
 
 ![zomato](https://github.com/Lathishkumar20/Resume_Projects/assets/142078468/5023c6de-02c0-4ea0-afa5-4a36f1606142)
 
