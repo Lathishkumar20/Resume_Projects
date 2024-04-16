@@ -5,6 +5,10 @@
  In Bangalore, almost all restaurants are registered to accept online orders on Zomato.
  Providing food straight to customer’s homes with just a few clicks.
  Providing restaurant listings, reviews and dine-out services to customers in all places in  Bangalore.
+ With detailed restaurant listings, customer reviews, and dine-out services, Zomato Orders ensures a convenient and satisfying dining experience for food 
+ enthusiasts throughout the city.
+ ![image](https://github.com/Lathishkumar20/Resume_Projects/assets/142078468/15bd433c-fa00-4526-bf23-db36b390fbec)
+
 
 
 
