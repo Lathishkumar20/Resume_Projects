@@ -1,4 +1,4 @@
-# Revolutionizing Dining with Restaurants Data
+# Discovering Bangalore's Best Restaurant Location
 
 # OVERVIEW
 
